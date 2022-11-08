@@ -1,6 +1,8 @@
 ## This demo app is cloned from Techworld-with-Nana's GitLab repo. 
 
-This project is not my work. It is cloned from Techworld-with-Nana's, in conjunction with her Docker Tutorial course on YouTube. 
+This project is not my work. It is cloned from Techworld-with-Nana's GitLab repo, in conjunction with her Docker Tutorial course on YouTube. 
+
+https://gitlab.com/nanuchi/techworld-js-docker-demo-app
 
 I am using this repo to test and get used to Docker and Docker workflows. 
 
